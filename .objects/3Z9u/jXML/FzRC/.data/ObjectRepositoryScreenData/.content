@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="u1Hr7PCGM0SjW06f2hbz-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAA4SURBVDhPY0i32n4AiP+TifeDDMAmQTQeZAbAADIbG0DWQ10DyMGjXhh0XiAHU8WA/eiCxOPtuwEl0a7qam5sogAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='TUYỂN DỤNG RPA - VÒNG ỨNG TUYỂN' /&gt;" Title="TUYỂN DỤNG RPA - VÒNG ỨNG TUYỂN" Url="https://docs.google.com/forms/d/e/1FAIpQLScITBFJiR_kGxylPA_amb2xUMxLUHlOz5va8ffvNNKoRywB6A/viewform">
+      <imageRef attrName="InformativeScreenshot" originalValue="7a289281d87c5d9f6504e670060c2140.jpg" xmlns="">0Mw4Y-tStbEKDHUxgrdhJBA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

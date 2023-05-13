@@ -1,0 +1,14 @@
+﻿{
+  "Id": "sK_pLmQG-UCbFJbhpwWvyw",
+  "Reference": "FbtqGDX-skm9T91DzRQ8bw/sK_pLmQG-UCbFJbhpwWvyw",
+  "ParentRef": "FbtqGDX-skm9T91DzRQ8bw/FzRCvsrA6keKvoo8uwir-A",
+  "Name": "Click 'Choose'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-13T05:35:08.2260639Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-13T05:35:08.2260639Z"
+}
